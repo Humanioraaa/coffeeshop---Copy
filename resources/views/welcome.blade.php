@@ -67,7 +67,7 @@
                             <img src="{{ asset('assets/images/main_slider_el_3.png') }}" alt="" width="169" height="131" data-ww="169px" data-hh="131px" data-no-retina>
                         </div>
                         <div class="tp-caption tp-resizeme rs-parallaxlevel-1" id="slide-1-layer-12" data-x="441" data-y="442" data-width="['none','none','none','none']" data-height="['none','none','none','none']" data-transform_idle="o:1;rZ:104;" data-transform_in="opacity:0;s:300;e:Power2.easeInOut;" data-transform_out="opacity:0;s:300;s:300;" data-start="500" data-responsive_offset="on">
-                            <img src="{{ asset('assets/images/assets/images/punyang-Photoroom1-removebg-preview.png') }}" alt="" width="72" height="140" data-ww="72px" data-hh="140px" data-no-retina>
+                            <img src="{{ asset('assets/images/main_slider_el_6.png') }}" alt="" width="72" height="140" data-ww="72px" data-hh="140px" data-no-retina>
                         </div>
                     </li>
             </ul>
