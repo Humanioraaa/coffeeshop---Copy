@@ -8,7 +8,7 @@
     <meta name="format-detection" content="telephone=no">
 
     <link rel="icon" type="image/x-icon" href="images/favicon.png" />
-    <title>Products &#8211; Hot Coffee</title>
+    <title>Sadel Coffeeshop </title>
 
     <link rel='stylesheet' href="https://fonts.googleapis.com/css?family=Droid+Serif:400,400i,700,700i|Grand+Hotel|Open+Sans:300,400,600,700,800|Raleway:100,200,300,400,500,600,700,800,900|Source+Sans+Pro:300,300i,400,400i,600,600i,700,700i|Ubuntu:300,300i,400,400i,500,500i,700,700i&amp;subset=latin-ext" type='text/css' media='all'>
     <link rel='stylesheet' href="{{ asset('assets/js/vendor/woo/woocommerce-layout.css') }}" type='text/css' media='all' />
